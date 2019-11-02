@@ -1,0 +1,16 @@
+[
+{
+  "modid": "orespawn",
+  "name": "Orespawn 2",
+  "description": "Orespawn 1.12",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Aeshleigh"],
+  "credits": "Danger for the Original mod, I just decompiled and ported it to 1.12.2",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
